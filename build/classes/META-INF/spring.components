@@ -1,0 +1,4 @@
+FirstDemo.HappyFortuneService=org.springframework.stereotype.Component
+FirstDemo.RESTFortuneService=org.springframework.stereotype.Component
+FirstDemo.SnookerCoach=org.springframework.stereotype.Component
+FirstDemo.SportConfig=org.springframework.stereotype.Component
